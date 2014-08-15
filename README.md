@@ -1,6 +1,14 @@
 MF_summer_tutorial
 ==================
 
+如果是修summer tutorial的學生，
+
+可以從hw1_sample.cpp那份檔案開始改。
+
+或是自己打造一份
+
+===================
+
 matrix factorization code for summer tutorial
 
 
